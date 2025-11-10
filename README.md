@@ -10,7 +10,7 @@ The same story as SuperTux, basically, Tux goes to a picnic with Penny, but Nolo
 * Build the game like you would with any other Godot game.
 
 ## Credits
-### PepperTux (No longer really a team, which isn't a bad thing because this game is open for everyone to work on, not just three people)
+### PepperTux
 * Vaesea - Coding, Levels, Music
 * Convival - Only stuff for old PepperTux
 * AnatolyStev - Music
@@ -21,6 +21,8 @@ The same story as SuperTux, basically, Tux goes to a picnic with Penny, but Nolo
 * Wansti - Made music for SuperTux (Most, if not all of the music for SuperTux is used here)
 * Jonfx1007 - Improved SuperTux's forest tileset (The slopes from that improvement are used here)
 * Weluvgoatz - Snow fort tiles (used as sand tiles here with the saturation reduced and with it also being recolored)
+
+If I didn't mention someone who worked on SuperTux who has stuff they made used here, it was most likely on accident, please tell me if I didn't mention someone!
 
 ### Everyone Else
 * Lukas Nystrand (Mortimer Twang) - Mortimer's Chipdisko
