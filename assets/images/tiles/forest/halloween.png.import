@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://dtlhmeopvgy08"
+path="res://.godot/imported/halloween.png-02f0b4549b8ed1221bbf6c6890fb4555.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/tiles/forest/halloween.png"
+dest_files=["res://.godot/imported/halloween.png-02f0b4549b8ed1221bbf6c6890fb4555.ctex"]
 
 [params]
 

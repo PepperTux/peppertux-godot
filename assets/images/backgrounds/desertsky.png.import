@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://cmm5xoa0jaixr"
+path="res://.godot/imported/desertsky.png-2288b46de4f416ba5b4dc5207a42432b.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/backgrounds/desertsky.png"
+dest_files=["res://.godot/imported/desertsky.png-2288b46de4f416ba5b4dc5207a42432b.ctex"]
 
 [params]
 

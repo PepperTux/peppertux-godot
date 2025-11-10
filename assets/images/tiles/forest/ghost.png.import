@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://2m2n2xo60r8g"
+path="res://.godot/imported/ghost.png-19ab597e484b605d7196fe4a0d9e94e6.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/tiles/forest/ghost.png"
+dest_files=["res://.godot/imported/ghost.png-19ab597e484b605d7196fe4a0d9e94e6.ctex"]
 
 [params]
 

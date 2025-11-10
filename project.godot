@@ -22,7 +22,7 @@ Global="*res://scenes_and_scripts/global.gd"
 [display]
 
 window/size/viewport_width=800
-window/size/viewport_height=600
+window/size/viewport_height=608
 
 [input]
 

@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://ctpucv307mo7b"
+path="res://.godot/imported/snow.png-1020871a5b4e8468333d74eb98f1878f.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/tiles/snow/snow.png"
+dest_files=["res://.godot/imported/snow.png-1020871a5b4e8468333d74eb98f1878f.ctex"]
 
 [params]
 

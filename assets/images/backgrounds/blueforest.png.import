@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://b7po8wcvpifhh"
+path="res://.godot/imported/blueforest.png-33b755f1462fb983d762922bff18f0c0.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/backgrounds/blueforest.png"
+dest_files=["res://.godot/imported/blueforest.png-33b755f1462fb983d762922bff18f0c0.ctex"]
 
 [params]
 

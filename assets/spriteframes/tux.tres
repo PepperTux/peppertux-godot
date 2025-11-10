@@ -55,7 +55,7 @@ animations = [{
 "speed": 5.0
 }, {
 "frames": [{
-"duration": 10.0,
+"duration": 15.0,
 "texture": ExtResource("6_bhyrj")
 }, {
 "duration": 1.0,

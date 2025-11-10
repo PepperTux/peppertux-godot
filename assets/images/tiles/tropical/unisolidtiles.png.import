@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://cagxewja7jtpj"
+path="res://.godot/imported/unisolidtiles.png-3aec5245448ff66e6140c8413846ebf8.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/tiles/tropical/unisolidtiles.png"
+dest_files=["res://.godot/imported/unisolidtiles.png-3aec5245448ff66e6140c8413846ebf8.ctex"]
 
 [params]
 

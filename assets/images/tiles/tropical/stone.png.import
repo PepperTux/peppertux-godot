@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://b7l4ggvlwntby"
+path="res://.godot/imported/stone.png-8ea3783dd2520137ccaaf8c389605863.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/tiles/tropical/stone.png"
+dest_files=["res://.godot/imported/stone.png-8ea3783dd2520137ccaaf8c389605863.ctex"]
 
 [params]
 

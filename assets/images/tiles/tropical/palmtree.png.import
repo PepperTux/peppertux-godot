@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da3buf6q2g34c"
-valid=false
+uid="uid://dxefuv0oytvfj"
+path="res://.godot/imported/palmtree.png-a5a0918b5368a446ceca16582a221369.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://assets/images/backgrounds/eveninggradient.png"
+source_file="res://assets/images/tiles/tropical/palmtree.png"
+dest_files=["res://.godot/imported/palmtree.png-a5a0918b5368a446ceca16582a221369.ctex"]
 
 [params]
 
