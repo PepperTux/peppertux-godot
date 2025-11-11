@@ -10,8 +10,9 @@ The same story as SuperTux, basically, Tux goes to a picnic with Penny, but Nolo
 * Build the game like you would with any other Godot game.
 
 ## Credits
-TODO: Create file that lists everything made for PepperTux and who made it
-### PepperTux (Not a team, just people who made things for PepperTux)
+Check the AUTHORS file for more information.
+
+### PepperTux
 * Vaesea - Coding, Levels, Music
 * Convival - Only stuff for old PepperTux
 * AnatolyStev - Music
@@ -27,6 +28,11 @@ TODO: Create file that lists everything made for PepperTux and who made it
 If I didn't mention someone who worked on SuperTux who has stuff they made used here, it was most likely on accident, please tell me if I didn't mention someone!
 
 ### Everyone Else
+* Bart + opengameart.org - Airship Song
+* Remaxim + opengameart.org - Orchestral Remix of Airship Song
 * Lukas Nystrand (Mortimer Twang) - Mortimer's Chipdisko
-* Mystical - Salcon
+* Mystical - Old Salcon
+
+TODO: Find out who made New Salcon
+
 * Larry Ewing - Creator of Tux
