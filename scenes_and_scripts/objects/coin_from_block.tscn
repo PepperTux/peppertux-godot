@@ -1,8 +1,8 @@
-[gd_scene load_steps=10 format=3 uid="uid://l8aayunxakc0"]
+[gd_scene load_steps=10 format=3 uid="uid://b8ta7o2owor31"]
 
-[ext_resource type="SpriteFrames" uid="uid://iek4uhrv4gj" path="res://assets/spriteframes/coin.tres" id="1_wma77"]
-[ext_resource type="Script" uid="uid://dxko8jj7q3vsp" path="res://scenes_and_scripts/objects/coin.gd" id="2_l2mxq"]
-[ext_resource type="AudioStream" uid="uid://cvnexss3ktj80" path="res://assets/sounds/coin.wav" id="3_y3h1m"]
+[ext_resource type="Script" uid="uid://dxko8jj7q3vsp" path="res://scenes_and_scripts/objects/coin.gd" id="1_8edpg"]
+[ext_resource type="SpriteFrames" uid="uid://iek4uhrv4gj" path="res://assets/spriteframes/coin.tres" id="2_37lva"]
+[ext_resource type="AudioStream" uid="uid://cvnexss3ktj80" path="res://assets/sounds/coin.wav" id="3_o2rvr"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_l2mxq"]
 radius = 15.033297
@@ -126,17 +126,19 @@ _data = {
 }
 
 [node name="Coin" type="Node2D"]
-script = ExtResource("2_l2mxq")
+script = ExtResource("1_8edpg")
 
 [node name="CoinImage" type="AnimatedSprite2D" parent="."]
-sprite_frames = ExtResource("1_wma77")
+sprite_frames = ExtResource("2_37lva")
 animation = &"normal"
+centered = false
 
 [node name="PlayerDetection" type="Area2D" parent="."]
 collision_layer = 64
 collision_mask = 2
 
 [node name="Collision" type="CollisionShape2D" parent="PlayerDetection"]
+position = Vector2(16, 16)
 shape = SubResource("CircleShape2D_l2mxq")
 
 [node name="Animations" type="AnimationPlayer" parent="."]
@@ -146,6 +148,6 @@ libraries = {
 }
 
 [node name="Sound" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("3_y3h1m")
+stream = ExtResource("3_o2rvr")
 
 [connection signal="body_entered" from="PlayerDetection" to="." method="_on_player_detection_body_entered"]
