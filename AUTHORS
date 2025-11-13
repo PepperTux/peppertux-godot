@@ -27,6 +27,12 @@ assets/images/tiles/tropical/normal.png - Weluvgoatz (Original Snowfort Tiles), 
 assets/images/tiles/tropical/palmtree.png - Vaesea - PepperTux (Old Palm Tree, will remove in the future)
 assets/images/tiles/tropical/stone.png - Vaesea - PepperTux
 assets/images/tiles/tropical/unisolidtiles.png - Weluvgoatz (Original Snowfort Tiles), Vaesea (Sand recolor) - SuperTux (Original Snowfort Tiles), PepperTux
+assets/images/desert/cactus.png - FilipOK - PepperTux
+assets/images/tiles/desert/sandstone.png‎ - FilipOK - PepperTux
+assets/images/tiles/forest/grass.png - FilipOK - PepperTux
+assets/images/tiles/forest/normal.png - Grumbel (Original Tiles), Jonfx1007 (Updated slopes), FilipOK (Grassless Forest Slopes), SuperTux (Original + Updated Slopes), PepperTux (Grassless Forest Slopes)
+assets/images/tiles/forest/stone.png - FilipOK - PepperTux
+assets/images/tiles/forest/stonebackgroundtiles.png - FilipOK - PepperTux
 
 == Music ==
 assets/music/airship_remix.ogg - Bart (Original + OpenGameArt website), Remaxim (Orchestral Remix) - OpenGameArt
