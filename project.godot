@@ -61,6 +61,7 @@ player_jump={
 2d_physics/layer_5="Player Projectiles"
 2d_physics/layer_6="Enemy Projectiles"
 2d_physics/layer_7="Coins"
+2d_physics/layer_8="Enemies2"
 
 [rendering]
 
