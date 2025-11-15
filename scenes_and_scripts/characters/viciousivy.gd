@@ -18,7 +18,7 @@ func _ready() -> void:
 	$Image.play("walk")
 
 func _physics_process(delta: float) -> void:
-	velocity += get_gravity() * delta
+	velocity += get_gravity() / 2 * delta
 	velocity.x = speed * direction
 
 	if $WallDetection.is_colliding():
@@ -51,7 +51,7 @@ func firedeath():
 func _on_hitbox_body_entered(body) -> void:
 	var thing = body.global_position.y - global_position.y # I forgot what this does.
 	if body.is_in_group("Tux"):
-		if thing < -15:
+		if thing < -10:
 			squished()
 			if Input.is_action_pressed("player_jump"):
 				body.velocity.y = -576

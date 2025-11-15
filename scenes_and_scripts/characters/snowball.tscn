@@ -15,13 +15,13 @@ size = Vector2(27, 31)
 z_index = 49
 collision_layer = 128
 collision_mask = 9
-floor_max_angle = 1.4835298
+floor_max_angle = 1.48353
 floor_snap_length = 15.0
 script = ExtResource("1_0wlif")
 
 [node name="Image" type="AnimatedSprite2D" parent="."]
 sprite_frames = ExtResource("2_aity3")
-animation = &"squished"
+animation = &"walk"
 centered = false
 
 [node name="Collision" type="CollisionShape2D" parent="."]
@@ -32,11 +32,6 @@ shape = SubResource("RectangleShape2D_xuiww")
 position = Vector2(18, 20)
 target_position = Vector2(-15, 0)
 collision_mask = 13
-
-[node name="GroundDetection" type="RayCast2D" parent="."]
-position = Vector2(18, 22)
-target_position = Vector2(0, 17)
-collision_mask = 9
 
 [node name="SquishSound" type="AudioStreamPlayer2D" parent="."]
 stream = ExtResource("5_mbrjx")

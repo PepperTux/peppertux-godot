@@ -12,7 +12,7 @@ size = Vector2(24, 32)
 z_index = 50
 collision_layer = 2
 collision_mask = 109
-floor_max_angle = 1.4835298
+floor_max_angle = 1.48353
 floor_snap_length = 15.0
 script = ExtResource("1_d87wj")
 

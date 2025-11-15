@@ -1,21 +1,21 @@
 [gd_scene load_steps=7 format=3 uid="uid://br2s8x0obq6xq"]
 
-[ext_resource type="Script" uid="uid://ceg34q4tybl7h" path="res://scenes_and_scripts/characters/snowball.gd" id="1_0yfij"]
+[ext_resource type="Script" uid="uid://be2072d7i4ug0" path="res://scenes_and_scripts/characters/viciousivy.gd" id="1_0yfij"]
 [ext_resource type="SpriteFrames" uid="uid://bda0u5e5m8iss" path="res://assets/spriteframes/vicious_ivy.tres" id="2_0yfij"]
 [ext_resource type="AudioStream" uid="uid://jp50qxyns17k" path="res://assets/sounds/squish.wav" id="3_u6ueu"]
 [ext_resource type="AudioStream" uid="uid://dwa8onc3iijt5" path="res://assets/sounds/fall.wav" id="4_268yh"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_xuiww"]
-size = Vector2(27, 19)
+size = Vector2(27, 26)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_lufqx"]
-size = Vector2(27, 19)
+size = Vector2(27, 26)
 
 [node name="ViciousIvy" type="CharacterBody2D"]
 z_index = 49
 collision_layer = 128
 collision_mask = 9
-floor_max_angle = 1.4835298
+floor_max_angle = 1.48353
 floor_snap_length = 15.0
 script = ExtResource("1_0yfij")
 
@@ -25,7 +25,7 @@ animation = &"walk"
 centered = false
 
 [node name="Collision" type="CollisionShape2D" parent="."]
-position = Vector2(18.5, 29.5)
+position = Vector2(18.5, 26)
 shape = SubResource("RectangleShape2D_xuiww")
 
 [node name="WallDetection" type="RayCast2D" parent="."]
@@ -41,7 +41,7 @@ collision_layer = 4
 collision_mask = 18
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Hitbox"]
-position = Vector2(18.5, 29.5)
+position = Vector2(18.5, 26)
 shape = SubResource("RectangleShape2D_lufqx")
 
 [node name="FallSound" type="AudioStreamPlayer2D" parent="."]
