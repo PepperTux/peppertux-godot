@@ -1,9 +1,9 @@
 # PepperTux Godot
 This (now old) version of PepperTux was a SuperTux fangame made using Godot 4.5.1 that was meant to be similar to old versions of SuperTux like 0.3.3 to 0.5.1.
 
-This has been replaced by the HaxeFlixel version. This is because Vicious Ivy just doesn't work sometimes and collisions with enemies use old and probably bad code which doesn't work sometimes. If anyone has a fix for this, that would be amazing!
+This has been replaced by the SuperTux mod version.
 
-https://github.com/PepperTux/peppertux-haxe
+https://github.com/PepperTux/peppertux-mod
 
 ## Story
 The same story as SuperTux, basically, Tux goes to a picnic with Penny, but Nolok attacks the two penguins and captures Penny, leaving just a note telling Tux that he doesn't stand a chance at getting Penny back, so Tux goes forward towards Nolok's Icy Island castle, thinking Penny is there.
